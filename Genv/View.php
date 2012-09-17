@@ -1,4 +1,6 @@
 <?php
+
+//autho zheli;
 class Genv_View extends Genv_Base{
   
     protected $_Genv_View = array(
